@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    background-color: rgb(215, 236, 255);
+    color: rgb(0, 0, 0);
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+.container{
+    background-color: rgba(28, 255, 73, 0.698);
+    border-radius: 15px;
+    padding: 10px;
+    margin-top: 30px;
+}
+.handGesturesEmoji{
+    background-color: rgba(105, 105, 255, 0.666);
+    margin: 50px;
+    font-size: large;
+    border-radius: 10px;
+}
